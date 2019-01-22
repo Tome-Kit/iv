@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<actor head="round">
+	<arms>
+		<arm isLefty="1" />
+		<arm isRighty="1" />
+	</arms>
+	<body />
+	<leg />
+	<leg color="white" />
+	<snow />
+</actor>
