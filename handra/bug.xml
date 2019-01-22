@@ -3,12 +3,12 @@
 <head></head>
 <tundlad></tundlad>
 <legs></legs>
-<leg isLefty="1"/>
-<leg isLefty="0"/>
-<legs/>
+<leg isLefty="1" />
+<leg isLefty="0" />
+<legs />
 <body></body>
 <legs></legs>
-<leg isLefty="1"/>
-<leg isLefty="0"/>
-</legs></legs>
+<leg isLefty="1" />
+<leg isLefty="0" />
+</legs>
 </bug>
