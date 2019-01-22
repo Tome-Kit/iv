@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<actor head="round">
+	<neck color="black" />
+	<arms>
+		<arm isLefty="1" />
+		<arm isLefty="0" />
+	</arms>
+	<stomach />
+	<legs>
+		<leg />
+		<leg />
+	</legs>
+</actor>
