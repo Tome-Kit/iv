@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<actor head="round"></actor>
+<neck color=black/>
+<arms>
+<arm colors=green/>
+<arm isLefty="2"/>
+</neck>
+</arms>
+<stomach></stomach>
