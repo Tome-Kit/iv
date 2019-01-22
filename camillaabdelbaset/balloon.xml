@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <balloon ball="oval">
-</ball color="red">
-	<opening color="red">
-		<cord color="black" />
+<ball color="red">
+	</ball> <opening color="red"/>
+		<cord color="black"/>
 </balloon>
