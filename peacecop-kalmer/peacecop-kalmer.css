@@ -1,0 +1,38 @@
+@charset "UTF-8";
+/* base font size for rems*/
+.html {
+	font-size: 16px;
+}
+
+/* blocks aside each other */
+
+.Block {
+	float: left;
+	height: 300px;
+	height: 18.75rem;
+}
+
+.Container {
+	width: 600px;
+	width: 37.5rem;
+}
+
+.Box {
+	width: 300px;
+	width: 18.75rem;
+}
+
+.Left {
+	background-color: red;
+}
+
+.Right {
+	background-color: blue;
+}
+
+/* width of the text area */
+
+.Text{
+	width: 480px;
+	width: 30rem;
+}
