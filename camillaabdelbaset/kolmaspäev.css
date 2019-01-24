@@ -1,0 +1,13 @@
+@charset "UTF-8";
+/*base font size */
+html{
+	font-size:14px;
+}
+.blue{background-color: #a1d7ea;}
+body {
+	text-align: center;
+	margin: auto;
+}
+.red{background-color: #e51212;}
+
+	
