@@ -1,0 +1,10 @@
+@charset "UTF-8";
+/*base font size*/
+html {
+	font-size: 16px;
+}
+
+p {
+	backround-color: pink;
+	color: hsl(100, 55, 100)
+}
