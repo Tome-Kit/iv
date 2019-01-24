@@ -1,0 +1,10 @@
+@charset "UTF-8";
+/*base font size*/
+html{
+	font-size: 16px;
+}
+body {
+	background-color: #eff3f9;
+text-align: center;
+margin: auto;
+}
