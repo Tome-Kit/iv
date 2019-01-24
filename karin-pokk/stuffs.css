@@ -1,0 +1,19 @@
+@charset "UTF-8";
+/*base font size*/
+html{
+	font-size: 16px;
+}
+h1 {
+	font-family: arial;
+}
+h2 {
+	font-family: arial;
+}
+p {
+	font-family: courier;
+}
+body {
+	background-color: #301a00;
+	text-align: center;
+	margin: auto;
+}

@@ -1,0 +1,26 @@
+@charset "UTF-8";
+/*base front size*/
+html{
+	font-size: 16px;
+}
+body{
+	background-color:peachpuff;
+	width:640px;
+	width:40rem;
+	margin:auto
+}
+p{
+	color:black;
+}
+a{
+	font-weight:bold;
+}
+.Jutt{
+	text-align:justify;
+	text-justify:auto;
+}
+.Minust{
+	text-align:justify;
+	text-justify:auto;
+	
+}

@@ -1,0 +1,13 @@
+@charset "UTF-8";
+/* base font size */
+html{
+	font-size: 16px;
+}
+
+p{
+	color: #0000ff;
+}
+img{
+	clear: both;
+	display:block;
+}
