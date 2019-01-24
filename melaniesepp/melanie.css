@@ -1,0 +1,14 @@
+@charset "UTF-8";
+/* bace font size */
+html{
+	font-size:16px;
+}	
+
+{
+  color: rgba(0,0,255,1);
+}
+
+{
+background-color: red;
+  color: hsla(100,50%.50%,0,5);
+    }
