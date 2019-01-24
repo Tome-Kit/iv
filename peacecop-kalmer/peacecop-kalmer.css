@@ -4,6 +4,11 @@
 	font-size: 16px;
 }
 
+/* common */
+
+h2 {
+	clear: both;
+}
 /* blocks aside each other */
 
 .Block {
@@ -30,6 +35,22 @@
 	background-color: blue;
 }
 
+/* flex */
+
+.ContainerFlex{
+	display: flex;
+}
+
+.BoxFlex{
+	width: 150px;
+	width: 9.375rem;
+}
+.LeftFlex{
+	flex-grow: 2;
+}
+.RightFlex{
+	flex-grow: 3;
+}
 /* width of the text area */
 
 .Text{

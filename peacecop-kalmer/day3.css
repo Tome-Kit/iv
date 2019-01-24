@@ -1,0 +1,55 @@
+@charset "UTF-8";
+/* base font size */
+html{
+	font-size: 16px;
+}
+body{
+	background-color: pink;
+	width: 480px;
+	width: 30rem;
+	text-align: center;
+	margin: auto;
+}
+img{
+	clear: both;
+}
+p{
+	color: hsla(100,50%,0%,1);
+	
+}
+a {
+	font-weight: normal;
+}
+nav a.Navigation{
+	font-weight: bold;
+}
+p{
+	font-weight:normal;
+	
+}
+p.Special{
+	font-weight:bold;
+}
+
+/* float */
+.Box{
+	width: 160px;
+	width: 10rem;
+	height: 160px;
+	height: 10rem;
+	float: left;
+}
+.Left{
+	background-color: red;
+}
+.Right{
+	background-color: hsl(270,100%,50%);
+	margin-left: 16px;
+	margin-left: 1rem;
+}
+
+/* text */
+.Text{
+	text-align: justify;
+	text-justify: auto;
+}
