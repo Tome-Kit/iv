@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<weather sun="round">
+<weather sunny="shine">
+	<cloud color="blue">
+	</cloud>
+	<sun form="round">
+	</sun>
 </weather>
-<cloud colour="blue">
-</cloud>
